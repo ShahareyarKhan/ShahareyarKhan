@@ -7,7 +7,8 @@
 
 <h3 align="left">Talking about my personal Stuff:</h3>
 
-- I’m currently learning **Artificial Intelligence and Machine Learning, Data Science, Web development**.
+- 🛠 I’m currently working with Nodejs, Express, React, Mongodb, Javascript, etc..
+  
 - Ask me about **Python, C++, Java, Data Structures and Algorithms, Html, Css, Javascript, ReactJs, NodeJs, MongoDB, ExpressJs, Tailwind, Bootstrap, Figma**.
 - How to reach me **shahareyar2003@gmail.com**.
   
