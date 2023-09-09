@@ -2,7 +2,7 @@
 
 <h2 align="center">Frontened Developer</h2>
 <h3 align="justify">Introduction:</h3>
-- Hi, I'm Md Shahareyar Anjum Khan, a third-year student pursuing a degree in Computer Science and Engineering (AIML) at the University of Engineering and Management in Jaipur. As a front-end developer and technology enthusiast, I am passionate about learning and enhancing my skills in this ever-evolving field.
+# Hi, I'm Md Shahareyar Anjum Khan, a third-year student pursuing a degree in Computer Science and Engineering (AIML) at the University of Engineering and Management in Jaipur. As a front-end developer and technology enthusiast, I am passionate about learning and enhancing my skills in this ever-evolving field.
 
 <h3 align="left">Talking about my personal Stuff:</h3>
 - I’m currently learning **Artificial Intelligence and Machine Learning, Data Science, Web development**.
