@@ -1,5 +1,5 @@
+# Hey👋, I'm Md Shahareyar Anjum Khan
 
-<h1 align="center">Hey👋, I'm <p style="color:blue">Md Shahareyar Anjum Khan</p></h1>
 <h2 align="center">Frontened Developer</h2>
 <h3 align="justify">Hi, I'm Md Shahareyar Anjum Khan, a third-year student pursuing a degree in Computer Science and Engineering (AIML) at the University of Engineering and Management in Jaipur. As a front-end developer and technology enthusiast, I am passionate about learning and enhancing my skills in this ever-evolving field.
 </h3>
