@@ -5,11 +5,12 @@
 # Hi, I'm Md Shahareyar Anjum Khan, a third-year student pursuing a degree in Computer Science and Engineering (AIML) at the University of Engineering and Management in Jaipur. As a front-end developer and technology enthusiast, I am passionate about learning and enhancing my skills in this ever-evolving field.
 
 <h3 align="left">Talking about my personal Stuff:</h3>
+
 - I’m currently learning **Artificial Intelligence and Machine Learning, Data Science, Web development**.
 - Ask me about **Python, C++, Java, Data Structures and Algorithms, Html, Css, Javascript, ReactJs, NodeJs, MongoDB, ExpressJs, Tailwind, Bootstrap, Figma**.
 - How to reach me **shahareyar2003@gmail.com**.
   
--  <a href="https://www.linkedin.com/in/md-shahareyar-anjum-khan-244401222/" target="blank">LinkedIn</a>
+- <a href="https://www.linkedin.com/in/md-shahareyar-anjum-khan-244401222/" target="blank">LinkedIn</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
