@@ -1,7 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Md Shahareyar Anjum Khan</h1>
+<h1 align="center">Hey👋, I'm Md Shahareyar Anjum Khan</h1>
 <h2 align="center">Frontened Developer</h2>
-<h3 align="justify">I am Md Shahareyar Anjum Khan, hailing from Bihar. I am currently pursuing a degree in Computer Science and Engineering (AIML) at the University of Engineering and Management in Jaipur. With a passion for technology, I am eager to learn and develop my skills in this field.</h3>
+<h3 align="justify">Hi, I'm Md Shahareyar Anjum Khan, a third-year student pursuing a degree in Computer Science and Engineering (AIML) at the University of Engineering and Management in Jaipur. As a front-end developer and technology enthusiast, I am passionate about learning and enhancing my skills in this ever-evolving field.
+</h3>
 
 - I’m currently learning **Artificial Intelligence and Machine Learning, Data Science, Web development**.
 - Ask me about **Python, C++, Java, Data Structures and Algorithms, Html, Css, Javascript, ReactJs, NodeJs, MongoDB, ExpressJs, Tailwind, Bootstrap, Figma**.
