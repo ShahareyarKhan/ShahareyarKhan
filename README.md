@@ -9,7 +9,9 @@
 
 - 🛠 I’m currently working with Nodejs, Express, React, Mongodb, Javascript, etc..
   
-- Ask me about **Python, C++, Java, Data Structures and Algorithms, Html, Css, Javascript, ReactJs, NodeJs, MongoDB, ExpressJs, Tailwind, Bootstrap, Figma**.
+- 👨🏻‍💻   Most of my projects are available on Github.
+
+- 
 - How to reach me **shahareyar2003@gmail.com**.
   
 - <a href="https://www.linkedin.com/in/md-shahareyar-anjum-khan-244401222/" target="blank">LinkedIn</a>
