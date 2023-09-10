@@ -4,7 +4,7 @@
 <h3 align="justify">Introduction:</h3>
 
 - Hi, I'm Md Shahareyar Anjum Khan, a third-year student pursuing a degree in Computer Science and Engineering (AIML) at the University of Engineering and Management in Jaipur. As a front-end developer and technology enthusiast, I am passionate about learning and enhancing my skills in this ever-evolving field.
-
+  <img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 <h3 align="left">Talking about my personal Stuff:</h3>
 
 - 🛠 I’m currently working with Nodejs, Express, React, Mongodb, Javascript, etc..
