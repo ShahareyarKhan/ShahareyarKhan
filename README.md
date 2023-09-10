@@ -12,10 +12,8 @@
 - 👨🏻‍💻 Most of my projects are available on Github.
   
 - 📄 Checkout my <a href="https://drive.google.com/file/d/1Co0xwKvm1kXu9nfdJnrVmBxDkLjzj4j9/view?usp=drivesdk" target="blank">Resume</a>
-- How to reach me **shahareyar2003@gmail.com**.
+- 📧 How to reach me **shahareyar2003@gmail.com**.
   
-- <a href="https://www.linkedin.com/in/md-shahareyar-anjum-khan-244401222/" target="blank">LinkedIn</a>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shahareyar2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahareyar2003" height="30" width="40" /></a>
